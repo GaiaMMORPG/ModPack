@@ -1,6 +1,6 @@
 #Noise added to map to make it look less plastic
 #Range: 0.0 ~ 0.5
-noise = 0.1
+noise = 0.05
 #Enables minimap to show up in corner
 #Allowed Values: DISABLED, BOTTOM_LEFT, LEFT, TOP_LEFT, TOP_RIGHT, RIGHT, BOTTOM_RIGHT
 minimap = "DISABLED"
