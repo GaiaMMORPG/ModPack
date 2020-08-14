@@ -5,7 +5,12 @@ Ce repo héberge le mod pack client pour Gaïa MMORPG.
 ## Versions
 
 Minecraft `1.15.2`
+
 Forge `31.2.36`
+
+## Téléchargement
+
+Le ModPack peut être téléchargé directement depuis [ce lien](https://downgit.github.io/#/home?url=https://github.com/GaiaMMORPG/ModPack/tree/master/modpack&fileName=GaiaModPack&rootDirectory=false) ou depuis [ce lien](https://kinolien.github.io/gitzip/?download=/GaiaMMORPG/ModPack/tree/master/modpack).
 
 ## Credits
 
