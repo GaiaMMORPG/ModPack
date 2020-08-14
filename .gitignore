@@ -1,0 +1,12 @@
+# Blacklist everything
+*
+
+# Now whitelist
+!*/
+!/*.md
+!/modpack/config/**
+!/modpack/mods/**
+!/modpack/bin/**
+!/modpack/scripts/**
+
+!.gitignore
