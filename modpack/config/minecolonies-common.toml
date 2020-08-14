@@ -38,7 +38,7 @@
 	#Should colonies in other dimensions be allowed? [Default: false]
 	allowotherdimcolonies = false
 	#Should workers work during the rain? [Default: false]
-	workersalwaysworkinrain = false
+	workersalwaysworkinrain = true
 	#Should player made schematics be allowed [Default: false]
 	allowplayerschematics = false
 	#Quantity of dirt per Compost filling. [Default: 1]
@@ -57,7 +57,7 @@
 	#Range: 0.0 ~ 100.0
 	fisherspongechance = 0.1
 	#Should Players be sent entering/leaving colony notifications? [Default: true]
-	sendenteringleavingmessages = true
+	sendenteringleavingmessages = false
 	#Should players be allowed to change names? -1 for false, 0 for specific groups, 1 for true. [Default: 1]
 	#Range: -1 ~ 1
 	allowglobalnamechanges = 1
@@ -96,7 +96,7 @@
 	#Sets weither or not Colony structures are destroyed automatically. [Default: true]
 	autodestroycolonyblocks = true
 	#Should the player be allowed to use the '/mc rtp' command? [Default: true]
-	canplayerusertpcommand = true
+	canplayerusertpcommand = false
 	#minecolonies.config.numberofattemptsforsafetp.comment
 	#Range: 1 ~ 10
 	numberofattemptsforsafetp = 4
@@ -113,21 +113,21 @@
 	#Range: 30 ~ 99999
 	teleportbuffer = 120
 	#Should the player be allowed to use the '/mc home' command? [Default: true]
-	canplayerusehometpcommand = true
+	canplayerusehometpcommand = false
 	#Can Player Teleport to allied colonies? [Default:true]
-	canplayeruseallytownhallteleport = true
+	canplayeruseallytownhallteleport = false
 	#Should the player be allowed to use the '/mc citizens kill' command? [Default: true]
 	canplayerusekillcitizenscommand = true
 
 #minecolonies.config.claims.comment
 [claims]
 	#Should the min/max distance from spawn also affect colony placement? [Default: false]
-	restrictcolonyplacement = false
+	restrictcolonyplacement = true
 	#minecolonies.config.officersreceiveadvancements.comment
 	officersreceiveadvancements = true
 	#minecolonies.config.initialcolonysize.comment
 	#Range: 1 ~ 200
-	initialColonySize = 4
+	initialColonySize = 8
 	#minecolonies.config.maxcolonysize.comment
 	#Range: 1 ~ 50
 	maxColonySize = 20
@@ -138,10 +138,10 @@
 	#Range: 1 ~ 200
 	minColonyDistance = 8
 	#Should players be allowed to build their colonies over existing villages? [Default: false]
-	protectvillages = false
+	protectvillages = true
 	#Min distance from world spawn. [Default: 512]
 	#Range: 1 ~ 1000
-	mindistancefromworldspawn = 512
+	mindistancefromworldspawn = 256
 
 #All configuration items related to the combat elements of Minecolonies
 [combat]
@@ -150,11 +150,11 @@
 	minimumnumberofnightsbetweenraids = 5
 	#Days until the pirate ships despawn again. [Default: 3]
 	#Range: 1 ~ 10
-	daysuntilpirateshipsdespawn = 3
+	daysuntilpirateshipsdespawn = 1
 	#minecolonies.config.citizencallforhelp.comment
 	citizencallforhelp = true
 	#Whether or not to barbarians can break, scale, bridge obstacles. [Default: true]
-	dobarbariansbreakthroughwalls = true
+	dobarbariansbreakthroughwalls = false
 	#Should Mobs attack citizens? [Default: false
 	mobattackcitizens = true
 	#The max size of a barbarian horde. [Default: 20]
@@ -162,7 +162,7 @@
 	maxBarbarianSize = 80
 	#Health multiplier for all Guards. [Default: 1.0]
 	#Range: 0.1 ~ 5.0
-	guardhealthmult = 1.0
+	guardhealthmult = 2.0
 	#minecolonies.config.barbarianhordedifficulty.comment
 	#Range: 0 ~ 10
 	barbarianhordedifficulty = 5
@@ -171,19 +171,19 @@
 	averagenumberofnightsbetweenraids = 7
 	#Damage multiplier for Knight Guards. [Default: 1.0]
 	#Range: 0.1 ~ 5.0
-	knightdamagemult = 1.0
+	knightdamagemult = 2.0
 	#Turn on Minecolonies pvp mode, attention (colonies can be destroyed and can be griefed under certain conditions). [Default: false]
 	pvp_mode = false
 	#minecolonies.config.shouldraiderbreakdoors.comment
-	shouldraiderbreakdoors = true
+	shouldraiderbreakdoors = false
 	#Max Y level for Barbarians to spawn. [Default: 200]
 	#Range: 1 ~ 500
 	maxyforbarbarians = 200
 	#Whether or not to spawn barbarians. [Default: true]
-	dobarbariansspawn = true
+	dobarbariansspawn = false
 	#Damage multiplier for Ranger Guards. [Default: 1.0]
 	#Range: 0.1 ~ 5.0
-	rangerdamagemult = 1.0
+	rangerdamagemult = 2.0
 	#The spawn size of a barbarian horde. [Default: 5]
 	#Range: 1 ~ 10
 	spawnbarbariansize = 5
@@ -268,7 +268,7 @@
 	#Should the request system creatively resolve (if possible) when the player is required to resolve a request. [Default: false]
 	creativeresolve = false
 	#Should the player be allowed to use the '/mc colony rs reset' command? [Default: false]
-	canplayeruseresetcommand = false
+	canplayeruseresetcommand = true
 	#The amount of ticks between retries of the request system for retryable requests. Lower increases server load. [Default: 1200]
 	#Range: 30 ~ 10000
 	delaybetweenretries = 1200
