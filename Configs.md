@@ -13,7 +13,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] autoreglib
 - [x] better-advancements
 - [x] biomes-o-plenty
-- [ ] botania
+- [x] botania
 - [ ] crafttweaker
 - [ ] create
 - [x] comforts
