@@ -16,6 +16,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] botania
 - [ ] crafttweaker
 - [ ] create
+- [x] comforts
 - [ ] corail-tombstone
 - [ ] curios
 - [x] defaultoptions

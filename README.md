@@ -23,6 +23,7 @@ Le ModPack peut être téléchargé directement depuis [ce lien](https://downgit
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Craft Tweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
 - [Create](https://www.curseforge.com/minecraft/mc-mods/create)
