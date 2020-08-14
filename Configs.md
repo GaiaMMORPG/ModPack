@@ -5,14 +5,14 @@ Pensez à éditer cette page en même temps que vos commits de config.
 
 ## Mods
 
-- [ ] akashic-tome
-- [ ] appleskin
-- [ ] aquaculture
-- [ ] astikorcarts
-- [ ] astral-sorcery
-- [ ] autoreglib
-- [ ] better-advancements
-- [ ] biomes-o-plenty
+- [x] akashic-tome
+- [x] appleskin
+- [x] aquaculture
+- [x] astikorcarts
+- [x] astral-sorcery
+- [x] autoreglib
+- [x] better-advancements
+- [x] biomes-o-plenty
 - [ ] botania
 - [ ] crafttweaker
 - [ ] create
