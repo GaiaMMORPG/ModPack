@@ -46,7 +46,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] pams-harvestcraft-2-crops
 - [x] pams-harvestcraft-2-food-core
 - [x] pams-harvestcraft-2-trees
-- [ ] patchouli
+- [x] patchouli
 - [ ] polymorph
 - [x] rope-bridge
 - [ ] scalinghealth
