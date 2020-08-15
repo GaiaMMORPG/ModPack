@@ -8,5 +8,6 @@
 !/modpack/mods/**
 !/modpack/bin/**
 !/modpack/scripts/**
+!/modpack/defaultconfigs/**
 
 !.gitignore

@@ -1,0 +1,13 @@
+
+#Server configuration
+[server]
+	#Sets the maximum distance between two players to allow the trade
+	#This value must be squared (64 means 8 blocks)
+	#Range: 0.0 ~ 1.7976931348623157E308
+	distance = 64.0
+	#Sets the number of ticks before a trade request is refused
+	#40 ticks = 1 second
+	#Minimum is 400 ticks (10 seconds)
+	#Range: > 400
+	time = 1200
+
