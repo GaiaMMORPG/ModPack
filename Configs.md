@@ -36,7 +36,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] inventory-sorter
 - [ ] item-filters
 - [ ] jei
-- [ ] journeymap
+- [x] journeymap
 - [x] just-another-rotten-flesh-to-leather-mod
 - [x] minecolonies
 - [x] morpheus
