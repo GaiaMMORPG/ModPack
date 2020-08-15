@@ -14,32 +14,32 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] better-advancements
 - [x] biomes-o-plenty
 - [x] botania
-- [ ] crafttweaker
+- [x] crafttweaker
 - [ ] create
 - [x] comforts
 - [ ] corail-tombstone
-- [ ] curios
+- [x] curios
 - [x] defaultoptions
 - [ ] doggy-talents
 - [ ] draw-bridge
 - [ ] dungeon-crawl
 - [ ] dynamic-view
 - [ ] essentials
-- [ ] fast-leaf-decay
-- [ ] ftb-chunks
-- [ ] ftb-gui-library
-- [ ] ftb-quests
-- [ ] ftb-ranks
-- [ ] ftb-teams
+- [x] fast-leaf-decay
+- [x] ftb-chunks
+- [x] ftb-gui-library
+- [x] ftb-quests
+- [x] ftb-ranks
+- [x] ftb-teams
 - [ ] hwyla
 - [ ] initialinventory
-- [ ] inventory-sorter
+- [x] inventory-sorter
 - [ ] item-filters
 - [ ] jei
 - [ ] journeymap
 - [ ] just-another-rotten-flesh-to-leather-mod
 - [x] minecolonies
-- [ ] morpheus
+- [x] morpheus
 - [ ] mouse-tweaks
 - [ ] natures-aura
 - [ ] observerlib
@@ -53,7 +53,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] silentlib
 - [ ] spice-of-life-carrot-edition
 - [ ] storage-drawers
-- [ ] structurize
+- [x] structurize
 - [ ] supertooms
 - [ ] stupid-horse-stand-still
 - [ ] trading-players
