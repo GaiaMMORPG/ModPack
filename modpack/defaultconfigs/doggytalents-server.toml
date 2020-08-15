@@ -8,7 +8,7 @@
 	#Range: > 0
 	time_to_mature = 48000
 	#When enabled you will spawn with a guide, Doggy Charm and Command Emblem.
-	enable_starting_items = false
+	enable_starting_items = true
 	#Determines if dogs die when their health reaches zero. If true, dogs will not die, and will instead become incapacitated.
 	enable_immortality = true
 	#When enabled, dogs will be randomly assigned genders and will only mate and produce children with the opposite gender.
@@ -19,4 +19,3 @@
 	eat_food_on_floor = true
 	#Disable hunger mode for the dog
 	disable_hunger = false
-

@@ -20,7 +20,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] corail-tombstone
 - [x] curios
 - [x] defaultoptions
-- [ ] doggy-talents
+- [x] doggy-talents
 - [ ] draw-bridge
 - [ ] dungeon-crawl
 - [ ] dynamic-view
