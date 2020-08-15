@@ -12,7 +12,7 @@
 	slabsPerBridge = 1
 	#Max length of bridges made be Grappling Gun.
 	#Range: 1 ~ 1000
-	maxBridgeDistance = 400
+	maxBridgeDistance = 64
 	#How much the Ladder Gun is damaged after creating each ladder.
 	#Range: 0 ~ 64
 	damageForLadder = 1
@@ -33,4 +33,3 @@
 	#How much the Bridge Gun is damaged after creating each ladder.
 	#Range: 0 ~ 64
 	damageForBridge = 1
-

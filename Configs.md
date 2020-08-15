@@ -48,7 +48,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] pams-harvestcraft-2-trees
 - [ ] patchouli
 - [ ] polymorph
-- [ ] rope-bridge
+- [x] rope-bridge
 - [ ] scalinghealth
 - [ ] silentlib
 - [ ] spice-of-life-carrot-edition
