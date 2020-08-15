@@ -21,7 +21,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] curios
 - [x] defaultoptions
 - [x] doggy-talents
-- [ ] draw-bridge
+- [x] draw-bridge
 - [ ] dungeon-crawl
 - [ ] dynamic-view
 - [ ] essentials
@@ -32,9 +32,9 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] ftb-ranks
 - [x] ftb-teams
 - [ ] hwyla
-- [ ] initialinventory
+- [x] initialinventory
 - [x] inventory-sorter
-- [ ] item-filters
+- [x] item-filters
 - [ ] jei
 - [x] journeymap
 - [x] just-another-rotten-flesh-to-leather-mod
@@ -42,20 +42,20 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] morpheus
 - [ ] mouse-tweaks
 - [ ] natures-aura
-- [ ] observerlib
+- [x] observerlib
 - [x] pams-harvestcraft-2-crops
 - [x] pams-harvestcraft-2-food-core
 - [x] pams-harvestcraft-2-trees
 - [x] patchouli
-- [ ] polymorph
+- [x] polymorph
 - [x] rope-bridge
 - [ ] scalinghealth
-- [ ] silentlib
+- [x] silentlib
 - [ ] spice-of-life-carrot-edition
 - [x] storage-drawers
 - [x] structurize
 - [x] supertools
-- [ ] stupid-horse-stand-still
+- [x] stupid-horse-stand-still
 - [ ] trading-players
 - [x] trample-stopper
 - [x] u-team-core
