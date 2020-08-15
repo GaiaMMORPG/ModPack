@@ -57,6 +57,6 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] supertools
 - [ ] stupid-horse-stand-still
 - [ ] trading-players
-- [ ] trample-stopper
+- [x] trample-stopper
 - [ ] u-team-core
 - [ ] waila-harvestability
