@@ -43,9 +43,9 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] mouse-tweaks
 - [ ] natures-aura
 - [ ] observerlib
-- [ ] pams-harvestcraft-2-crops
-- [ ] pams-harvestcraft-2-food-core
-- [ ] pams-harvestcraft-2-trees
+- [x] pams-harvestcraft-2-crops
+- [x] pams-harvestcraft-2-food-core
+- [x] pams-harvestcraft-2-trees
 - [ ] patchouli
 - [ ] polymorph
 - [x] rope-bridge
