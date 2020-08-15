@@ -641,7 +641,7 @@
 			maxY = 160
 			#Defines the average structure distance between two structures of this type
 			#Range: 1 ~ 150
-			structuredistance = 12
+			structuredistance = 20
 			#Set the amount this feature tries to generate per chunk
 			#Range: 1 ~ 128
 			generationAmount = 1
@@ -694,7 +694,7 @@
 			maxY = 90
 			#Defines the average structure distance between two structures of this type
 			#Range: 1 ~ 150
-			structuredistance = 12
+			structuredistance = 20
 			#Set the amount this feature tries to generate per chunk
 			#Range: 1 ~ 128
 			generationAmount = 1
@@ -749,7 +749,7 @@
 			maxY = 200
 			#Defines the average structure distance between two structures of this type
 			#Range: 1 ~ 150
-			structuredistance = 12
+			structuredistance = 20
 			#Set the amount this feature tries to generate per chunk
 			#Range: 1 ~ 128
 			generationAmount = 1
