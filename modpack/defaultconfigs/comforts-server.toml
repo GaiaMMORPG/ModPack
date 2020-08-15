@@ -14,5 +14,4 @@
 	nightHammocks = false
 	#The chance that a sleeping bag will break upon usage
 	#Range: 0.0 ~ 1.0
-	sleepingBagBreakage = 0.0
-
+	sleepingBagBreakage = 0.1
