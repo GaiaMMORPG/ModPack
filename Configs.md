@@ -52,7 +52,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] scalinghealth
 - [ ] silentlib
 - [ ] spice-of-life-carrot-edition
-- [ ] storage-drawers
+- [x] storage-drawers
 - [x] structurize
 - [ ] supertooms
 - [ ] stupid-horse-stand-still
