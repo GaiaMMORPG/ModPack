@@ -54,7 +54,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] spice-of-life-carrot-edition
 - [x] storage-drawers
 - [x] structurize
-- [ ] supertooms
+- [x] supertools
 - [ ] stupid-horse-stand-still
 - [ ] trading-players
 - [ ] trample-stopper
