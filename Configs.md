@@ -37,7 +37,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] item-filters
 - [ ] jei
 - [ ] journeymap
-- [ ] just-another-rotten-flesh-to-leather-mod
+- [x] just-another-rotten-flesh-to-leather-mod
 - [x] minecolonies
 - [x] morpheus
 - [ ] mouse-tweaks
