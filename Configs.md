@@ -31,7 +31,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] ftb-quests
 - [x] ftb-ranks
 - [x] ftb-teams
-- [ ] hwyla
+- [x] hwyla
 - [x] initialinventory
 - [x] inventory-sorter
 - [x] item-filters
@@ -59,4 +59,4 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] trading-players
 - [x] trample-stopper
 - [x] u-team-core
-- [ ] waila-harvestability
+- [x] waila-harvestability
