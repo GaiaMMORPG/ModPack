@@ -58,5 +58,5 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [ ] stupid-horse-stand-still
 - [ ] trading-players
 - [x] trample-stopper
-- [ ] u-team-core
+- [x] u-team-core
 - [ ] waila-harvestability
