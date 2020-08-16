@@ -49,7 +49,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] patchouli
 - [x] polymorph
 - [x] rope-bridge
-- [ ] scalinghealth
+- [x] scalinghealth
 - [x] silentlib
 - [ ] spice-of-life-carrot-edition
 - [x] storage-drawers

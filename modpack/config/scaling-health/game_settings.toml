@@ -44,7 +44,7 @@
 	#Mix of WEIGHTED_AVERAGE and DISTANCE_FROM_SPAWN. Difficulty increases with time but also with distance
 	#SERVER_WIDE:
 	#Difficulty tracked at the server level. Player difficulty is irrelevant.
-	areaMode = "WEIGHTED_AVERAGE"
+	areaMode = "DISTANCE_AND_TIME"
 	#Distance to look for difficulty sources (players) when calculating area difficulty.
 	searchRadius = 256
 	#The initial player difficulty value for newly spawned players.
@@ -62,19 +62,19 @@
 	#putting in -difficulty- produces no change, putting 0 will reset difficulty after this action
 	[difficulty.mutators]
 		#EvalEx expression: A player sleeps in a bed
-		onPlayerSleep = "difficulty"
+		onPlayerSleep = "difficulty * 1.25"
 		#EvalEx expression: A player dies
-		onPlayerDeath = "difficulty"
+		onPlayerDeath = "difficulty * 0.75"
 		#EvalEx expression: A normal hostile mob is killed by a player
-		onHostileKilled = "difficulty"
+		onHostileKilled = "difficulty + 0.5"
 		#EvalEx expression: A player killed another player
 		onPlayerKilled = "difficulty + 1.0"
 		#EvalEx expression: A boss is killed by a player
-		onBossKilled = "difficulty"
+		onBossKilled = "difficulty + 5.0"
 		#EvalEx expression: A blight is killed by a player
-		onBlightKilled = "difficulty"
+		onBlightKilled = "difficulty + 2.0"
 		#EvalEx expression: A peaceful mob is killed by a player
-		onPeacefulKilled = "difficulty"
+		onPeacefulKilled = "difficulty + 0.1"
 
 		[[difficulty.mutators.byEntity]]
 			types = ["minecraft:villager"]
@@ -95,6 +95,11 @@
 			biomes = ["modid:example"]
 			scale = 1.0
 			dimensions = ["overworld"]
+
+		[[difficulty.multipliers.byLocation]]
+			biomes = []
+			scale = 1.25
+			dimensions = ["nether"]
 
 [mob]
 
@@ -303,4 +308,3 @@
 		#The highest attack damage a player can achieve, not considering the vanilla
 		#cap and modifiers from other sources. 0 means 'unlimited'.
 		maxValue = 0
-
