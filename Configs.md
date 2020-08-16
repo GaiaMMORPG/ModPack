@@ -48,6 +48,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] pams-harvestcraft-2-trees
 - [x] patchouli
 - [x] polymorph
+- [x] redstone-gates
 - [x] rope-bridge
 - [x] scalinghealth
 - [x] silentlib

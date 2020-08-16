@@ -56,6 +56,7 @@ Le ModPack peut être téléchargé directement depuis [ce lien](https://downgit
 - [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
+- [Redstone Gates](https://www.curseforge.com/minecraft/mc-mods/redstone-gates)
 - [Rope Bridge](https://www.curseforge.com/minecraft/mc-mods/rope-bridge)
 - [Scaling Health](https://www.curseforge.com/minecraft/mc-mods/scaling-health)
 - [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
