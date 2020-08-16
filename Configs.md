@@ -22,7 +22,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] defaultoptions
 - [x] doggy-talents
 - [x] draw-bridge
-- [ ] dungeon-crawl
+- [x] dungeon-crawl
 - [ ] dynamic-view
 - [x] essentials
 - [x] fast-leaf-decay
