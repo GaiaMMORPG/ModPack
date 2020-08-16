@@ -23,7 +23,7 @@
 	#Whether to require a Grave's Key to access graves [false/true|default:true]
 	player_grave_access = true
 	#Graveless Areas
-	no_grave_location = ["0, 0, 0, -10000, 20"]
+	no_grave_location = []
 	#Knowledge of Death loss why dying [0..500|default:0]
 	#Range: 0 ~ 500
 	knowledge_loss = 0
@@ -210,4 +210,3 @@
 	disable_disenchantment_for_tetra = false
 	#Allows to auto-equip the slots from Curio mod [false/true|default:true]
 	allow_curio_auto_equip = true
-

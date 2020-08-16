@@ -17,7 +17,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] crafttweaker
 - [x] create
 - [x] comforts
-- [ ] corail-tombstone
+- [x] corail-tombstone
 - [x] curios
 - [x] defaultoptions
 - [x] doggy-talents
