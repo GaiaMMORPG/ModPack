@@ -8,7 +8,7 @@
 		# SOMETIMES will show the meter for a few seconds every so often.
 		#KEYPRESS will make the meter keybinded
 		#ALWAYS and NEVER should be obvious enough.
-		show = "SOMETIMES"
+		show = "KEYPRESS"
 		#Show the difficulty meter for this many seconds (only on SOMETIMES mode)
 		showDuration = 8.0
 
