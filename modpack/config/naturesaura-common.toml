@@ -21,7 +21,7 @@
 	#If Aura Blooms and Aura Cacti should generate in the world
 	auraBlooms = true
 	#If the chunk loader block should be enabled
-	chunkLoader = true
+	chunkLoader = false
 	#If the Aura Imbalance effect of grass and trees dying in the area if the Aura levels are too low should occur
 	grassDieEffect = true
 	#If the Aura Imbalance effect of grass growing on netherrack if the Aura levels are high enough should occur
@@ -59,4 +59,3 @@
 	respectVanillaParticleSettings = false
 	#If debug information about Aura around the player should be displayed in the F3 debug menu if the player is in creative mode
 	debugText = true
-
