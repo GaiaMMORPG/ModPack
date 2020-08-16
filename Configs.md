@@ -40,7 +40,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] just-another-rotten-flesh-to-leather-mod
 - [x] minecolonies
 - [x] morpheus
-- [ ] mouse-tweaks
+- [x] mouse-tweaks
 - [ ] natures-aura
 - [x] observerlib
 - [x] pams-harvestcraft-2-crops
