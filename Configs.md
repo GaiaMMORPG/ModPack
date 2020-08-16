@@ -15,7 +15,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] biomes-o-plenty
 - [x] botania
 - [x] crafttweaker
-- [ ] create
+- [x] create
 - [x] comforts
 - [ ] corail-tombstone
 - [x] curios
