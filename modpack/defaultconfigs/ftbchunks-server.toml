@@ -2,7 +2,7 @@
 disable_fake_players = false
 #Max claimed chunks.
 #Range: > 0
-max_claimed_chunks = 500
+max_claimed_chunks = 100
 #Max force loaded chunks.
 #Range: > 0
 max_force_loaded_chunks = 25
