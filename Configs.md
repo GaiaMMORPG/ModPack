@@ -23,7 +23,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] doggy-talents
 - [x] draw-bridge
 - [x] dungeon-crawl
-- [ ] dynamic-view
+- [x] dynamic-view
 - [x] essentials
 - [x] fast-leaf-decay
 - [x] ftb-chunks
