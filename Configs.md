@@ -51,12 +51,12 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] rope-bridge
 - [x] scalinghealth
 - [x] silentlib
-- [ ] spice-of-life-carrot-edition
+- [x] spice-of-life-carrot-edition
 - [x] storage-drawers
 - [x] structurize
 - [x] supertools
 - [x] stupid-horse-stand-still
-- [x] trading-players
+- [ ] trading-players
 - [x] trample-stopper
 - [x] u-team-core
 - [x] waila-harvestability
