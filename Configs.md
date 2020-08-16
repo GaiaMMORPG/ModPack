@@ -24,7 +24,7 @@ Pensez à éditer cette page en même temps que vos commits de config.
 - [x] draw-bridge
 - [ ] dungeon-crawl
 - [ ] dynamic-view
-- [ ] essentials
+- [x] essentials
 - [x] fast-leaf-decay
 - [x] ftb-chunks
 - [x] ftb-gui-library
