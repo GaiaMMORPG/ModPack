@@ -12,6 +12,12 @@ Forge `31.2.36`
 
 Le ModPack peut être téléchargé directement depuis [ce lien](https://downgit.github.io/#/home?url=https://github.com/GaiaMMORPG/ModPack/tree/master/modpack&fileName=GaiaModPack&rootDirectory=false) ou depuis [ce lien](https://kinolien.github.io/gitzip/?download=/GaiaMMORPG/ModPack/tree/master/modpack).
 
+## Server
+
+### Game Rules
+
+`/gamerule mobGriefing false`
+
 ## Credits
 
 - [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
