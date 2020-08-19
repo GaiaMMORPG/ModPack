@@ -10,7 +10,14 @@ Forge `31.2.36`
 
 ## Téléchargement
 
-Le ModPack peut être téléchargé directement depuis [ce lien](https://downgit.github.io/#/home?url=https://github.com/GaiaMMORPG/ModPack/tree/master/modpack&fileName=GaiaModPack&rootDirectory=false) ou depuis [ce lien](https://kinolien.github.io/gitzip/?download=/GaiaMMORPG/ModPack/tree/master/modpack).
+### Version Stable
+
+Le ModPack peut être téléchargé en utilisant les releases sur Github. Pour être sûr d'avoir la dernière mise à jour, vous pouvez donc utiliser [ce lien](https://github.com/GaiaMMORPG/ModPack/releases/latest/download/GaiaModPack.zip).
+
+
+### Version Développement
+
+La dernière version de développement du ModPack peut être téléchargé depuis [ce lien](https://downgit.github.io/#/home?url=https://github.com/GaiaMMORPG/ModPack/tree/master/modpack&fileName=GaiaModPack&rootDirectory=false) ou depuis [ce lien](https://kinolien.github.io/gitzip/?download=/GaiaMMORPG/ModPack/tree/master/modpack).
 
 ## Server
 
