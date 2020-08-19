@@ -14,7 +14,7 @@
 	#Enable alerts
 	AlertEnabled = true
 	#Include miners in player calculations
-	IncludeMiners = true
+	IncludeMiners = false
 	#Percentage of players required to trigger a successful sleep.
 	#Range: 0 ~ 100
 	SleeperPerc = 50
