@@ -13,7 +13,9 @@
     "command.morpheus.alert": true, 
     "command.msg": true, 
     "command.ping": true,
-    "command.trade": true
+    "command.trade": true,
+    "command.minecolonies.colony.requestsystem-reset": true,
+    "command.minecolonies.colony.requestsystem-reset.colonyID": true
   },
   "citoyen": {
     "name": "Citoyen",
