@@ -1,0 +1,25 @@
+
+[Common]
+
+	[Common.Miscellaneous]
+		#Disable thunder sound when a teammate dies
+		disableDeathSound = false
+
+	[Common.Chat]
+		#Disable chat prefixes
+		disablePrefix = false
+		#Disable ping sound when your name or your team name is mentioned in chat
+		disablePing = false
+
+[Server]
+
+	[Server.Team]
+		#Enable damaging teammates
+		enableFriendlyFire = false
+		#Allow non-operators to delete teams
+		noOpRemoveTeam = false
+		#Disable the inventory transfer feature
+		disableInventoryTransfer = true
+		#Disable synchronized advancements
+		disableAdvancementSync = false
+
