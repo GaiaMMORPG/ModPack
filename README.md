@@ -23,7 +23,17 @@ La dernière version de développement du ModPack peut être téléchargé depui
 
 ### Game Rules
 
+Ces gamerules sont recommandées, non-obligatoires.
+
 `/gamerule mobGriefing false`
+`/gamerule doFireTick false` (le feu ne répand pas, mais ne s'éteint pas non plus) 
+`/worldborder set 100000` (doit être exécuté sur toutes les dimensions)
+
+## Limitations connues
+
+- Configurer Optifine de façon trop aggressive peut causer des textures à disparaître. C'est particulièrement le cas pour Astral Sorcery.
+
+- Utiliser des Déployeurs (deployers) de Create dans une zone claim l'empêche d'effectuer sa tâche. Il faut utiliser des deployers en dehors de toute colonie (utilisez `/minecolonier whereami`) et autoriser le `Deployer` en tant qu'allié dans FTBChunks.
 
 ## Credits
 
@@ -46,7 +56,6 @@ La dernière version de développement du ModPack peut être téléchargé depui
 - [Drawbridge](https://www.curseforge.com/minecraft/mc-mods/draw-bridge)
 - [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
 - [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
-- [Essentials](https://www.curseforge.com/minecraft/mc-mods/essentials)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - [FTB Chunks](https://jenkins.latmod.com/job/FTB-Chunks/)
 - [FTB GUI Library](https://jenkins.latmod.com/job/FTB-GUI-Library/)
@@ -56,7 +65,6 @@ La dernière version de développement du ModPack peut être téléchargé depui
 - [Here's What You're Looking At](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 - [Initial Inventory](https://www.curseforge.com/minecraft/mc-mods/initial-inventory)
 - [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
-- [Item Filters](https://www.curseforge.com/minecraft/mc-mods/item-filters)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [Just Another Rotten Flesh to Leather Mod](https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod)
