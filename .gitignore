@@ -9,5 +9,6 @@
 !/modpack/bin/**
 !/modpack/scripts/**
 !/modpack/defaultconfigs/**
+!/modpack/openloader/**
 
 !.gitignore

@@ -1,0 +1,17 @@
+{
+    "chat.trade.noanswer.asker":"%s n'a pas répondu...",
+    "chat.trade.noanswer.responder":"Vous n'avez pas répondu à %s.",
+    "chat.trade.success":"L'échange avec %s a été effectué !",
+    "chat.trade.cancelled":"L'échange avec %s a été annulé.",
+    "chat.trade.refused.asker":"%s a refusé votre demande d'échange.",
+    "chat.trade.refused.responder":"Vous avez refusé la demande d'échange de %s.",
+    "chat.trade.error.nopending":"Vous n'avez aucune demande d'échange.",
+    "chat.trade.error.hasasked":"Vous avez déjà invité quelqu'un à échanger, attendez sa réponse.",
+    "chat.trade.error.haspending":"Vous avez une demande en attente.",
+    "chat.trade.error.player.haspending":"%s a déjà reçu une demande d'un autre joueur.",
+    "chat.trade.error.istrading":"%s est déjà en échange.",
+    "chat.trade.error.themselves":"Vous ne pouvez pas vous inviter vous même.",
+    "chat.trade.invite.receiver":"%s souhaite échanger avec vous !",
+    "chat.trade.invite.sender":"Vous avez invité %s à échanger !",
+	"chat.trade.error.tofar":"%s est trop loin."
+}

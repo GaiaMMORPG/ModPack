@@ -1,0 +1,113 @@
+{
+"item.economyinc.item_creditcard": "Parchemin d'identité",
+"item.economyinc.item_oneb":"Un Scarbe",
+"item.economyinc.item_fiveb":"Cinq Scarbes",
+"item.economyinc.item_tenb":"Dix Scarbes",
+"item.economyinc.item_twentyb":"Vingt Scarbes",
+"item.economyinc.item_fiftybe":"Cinquante Scarbes",
+"item.economyinc.item_hundreedb":"Cent Scarbes",
+"item.economyinc.item_twohundreedb":"Deux cents Scarbes",
+"item.economyinc.item_fivehundreedb":"Cinq cents Scarbes",
+"item.economyinc.item_remover":"Clé anglaise",
+"item.economyinc.item_gear":"Engrenage",
+"item.economyinc.item_gearmechanism":"Mécanisme d'engrenages",
+"item.economyinc.item_wireless":"Parchemin à distance",
+"item.economyinc.item_goldnuggetsubs":"Pépite d'or pure",
+"item.economyinc.item_packetone":"Sac de Scarbes (1)",
+"item.economyinc.item_packetfive":"Sac de Scarbes (5)",
+"item.economyinc.item_packetten":"Sac de Scarbes (10)",
+"item.economyinc.item_packettwenty":"Sac de Scarbes (20)",
+"item.economyinc.item_packetfifty":"Sac de Scarbes (50)",
+"item.economyinc.item_packethundreed":"Sac de Scarbes (100)",
+"item.economyinc.item_packettwohundreed":"Sac de Scarbes (200)",
+"item.economyinc.item_packetfivehundreed":"Sac de Scarbes (500)",
+"item.economyinc.item_vault_cracker": "Craqueur de coffre fort",
+
+"block.economyinc.block_vault":"Coffre-fort",
+"block.economyinc.block_seller":"Magasin",
+"block.economyinc.block_changer":"Changeur d'or",
+"block.economyinc.block_atm":"Changeur de Scarbes",
+"block.economyinc.block_village":"Coffre-fort",
+"block.economyinc.block_bills":"Stockage de Scarbes",
+
+
+"entity.entityInformater":"Informateur",
+
+"title.ownerCard":"Propriétaire",
+"title.fundsCard":"Fonds",
+
+"title.deleteC1":"Supprimer le parchemin",
+
+"title.yes":"Oui",
+"title.no":"Non",
+
+"title.block_vault":"Coffre-fort",
+
+"title.linkdCard":"Amélioré",
+
+"title.wireless":"Parchemin à distance",
+
+"title.stranger":"Salutations étranger !",
+"title.informations":"J'ai des infos",
+"title.seevault":"pour toi. Tu vois le coffre-fort à la",
+"title.codevault":"banque ? Je peux t'en donner le code",
+"title.onlyhundred":"pour seulement cent Scarbes...",
+"title.deal":"Marché conclu ?",
+"title.accept":"Oui !",
+
+"commands.plot.samename": "Nom de plot déjà existant.",
+"commands.plot.success": "Plot créé avec succès.",
+"commands.plot.sizeexceed" : "Taille de plot dépassée. La longueur ne peut pas dépasser 26.",
+"commands.plot.noplayer" : "Joueur non trouvé. Merci de redémarrer votre jeux.",
+"commands.plot.removed": "Plot supprimé avec succès.",
+"commands.plot.nomatch": "Aucun plot n'a été trouvé avec ce nom.",
+"commands.plot.saved": "Fichiers de jeu actualisé avec succès.",
+"commands.plot.errorsaved": "Problème rencontré lors de l'actualisation des fichiers.",
+"commands.plot.wrongPlotBorder" : "Les bordures de la parcelle référencé dans le fichier config serveur est erroné. Remplacé par défaut.",
+
+"commands.plot.teleport.success" : "Téléportation de %s à %s.",
+"commands.plot.teleport.fail" : "Impossible de téléporter le joueur au plot demandé.",
+
+"commands.plot.assigned.success" : "%s bien assigné au plot %s.",
+
+"commands.plotbuy.alreadybought": "Ce plot à déjà été acheté.",
+"commands.plotbuy.success": "Plot acheté avec succès. Merci d'attendre quelques minutes pour l'actualisation de la map.",
+
+"commands.balance.added" : "%s on été ajouté au compte de %s.",
+"commands.balance.withdraw" :"%s on été retiré du compte de %s.",
+"commands.balance.account" : ".",
+"commands.balance.funds" : "%s possède %s.",
+
+"title.notLinked" : "Vous ne possédez pas de parchemin à distance.",
+"title.cardAlreadyLinked" : "Parchemin déjà amélioré.",
+"title.cardUpdated" : "Parchemin amélioré !",
+"title.cardTooMuch" : "Parchemins supplémentaires trouvés, merci d'enlever les parchemins inutiles de votre inventaire.",
+"title.validate":"Valider",
+"title.sellAir":"Vous ne pouvez pas vendre de l'air.",
+"title.noCost":"Il faut un coût pour l'objet.",
+"title.block_seller":"Magasin",
+"title.buy":"Acheter",
+"title.recover":"Récuperer les fonds",
+"title.noUpgrade":"Il faut le parchemin à distance pour accéder à ceci.",
+"title.noEnoughFunds":"Fonds insuffisants.",
+"title.noSameCardBuy":"Vous ne pouvez pas acheter avec le parchemin de quelqu'un d'autre",
+"title.seller":"Vendeur : ",
+"title.cost":"Coût : ",
+"title.mode":"Mode : ",
+"title.amount":"Quantité : ",
+"title.fundsToRecover":"Fonds à récuperer : ",
+"title.item":"Objet : ",
+"title.unlimited":"Stack illimité",
+"title.unlimitedStack":"illimité",
+"title.limitedStack":"limité",
+"title.weight":"Poids : ",
+"title.alreadyUsed":"Ce magasin est déjà en cours d'utilisation.'",
+"title.block_changer":"Changeur d'or",
+"title.exchange": "Accepter l'intéraction ?",
+"title.noCardFoundAndNoLink":"Aucun parchemin n'a été trouvée ou vous n'avez pas le parchemin à distance.",
+"title.noMoreQuantity":"Le magasin est vide, contacter le vendeur.",
+
+"stat.economyinc.changed_gold_money": "Or transformé",
+
+"itemGroup.eic": "Economie"
+}
