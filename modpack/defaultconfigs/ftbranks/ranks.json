@@ -9,13 +9,17 @@
     "command": false,
     "command.ftbteams": true,
     "command.minecolonies.whereami": true,
-    "command.minecolonies.whoami": true, 
+    "command.minecolonies.whoami": true,
+    "command.minecolonies.citizens.kill": true,
+    "command.minecolonies.colony.addOfficer": true,
+    "command.minecolonies.colony.delete": true,
+    "command.minecolonies.colony.requestsystem-reset": true,
+    "command.minecolonies.colony.requestsystem-reset.colonyID": true,
     "command.morpheus.alert": true, 
     "command.msg": true, 
     "command.ping": true,
-    "command.trade": true,
-    "command.minecolonies.colony.requestsystem-reset": true,
-    "command.minecolonies.colony.requestsystem-reset.colonyID": true
+    "command.teamsmod": true,
+    "command.trade": true
   },
   "citoyen": {
     "name": "Citoyen",

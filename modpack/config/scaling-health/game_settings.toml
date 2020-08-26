@@ -18,7 +18,7 @@
 	groupAreaBonus = "1 + 0.05 * (areaPlayerCount - 1)"
 	#Message displayed to the player when sleeping, assuming it would change their difficulty.
 	#If left empty, the default message is pulled from the translation file.
-	sleepWarningMessage = ""
+	sleepWarningMessage = "En dormant, vous augmentez votre difficulté."
 	#Every second, this value is added to player and dimension difficulty.
 	#Enter a negative number to subtract difficulty instead.
 	changePerSecond = 0.0011575
@@ -142,7 +142,7 @@
 		#Xp scaling for blights, 3 will give 3 more times more xp then another mob on the same difficulty
 		maxBoost = 3.0
 		#Notify everyone that a blight died in combat
-		notifyOnDeath = true
+		notifyOnDeath = false
 		#Multiplier for blight difficulty, 2 will make blights have stats equal to 2 * current difficulty
 		blightModifier = 2.0
 
