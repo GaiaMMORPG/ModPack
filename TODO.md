@@ -1,5 +1,9 @@
 # Todo List
 
+## Repo
+
+- [ ] Update mod credits
+
 ## Textures
 
 - [ ] economy-inc

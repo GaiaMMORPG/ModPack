@@ -25,8 +25,8 @@ La dernière version de développement du ModPack peut être téléchargé depui
 
 Ces gamerules sont recommandées, non-obligatoires.
 
-`/gamerule mobGriefing false`
 `/gamerule doFireTick false` (le feu ne répand pas, mais ne s'éteint pas non plus) 
+
 `/worldborder set 100000` (doit être exécuté sur toutes les dimensions)
 
 ## Limitations connues
