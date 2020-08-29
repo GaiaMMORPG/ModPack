@@ -142,7 +142,7 @@
 		#Xp scaling for blights, 3 will give 3 more times more xp then another mob on the same difficulty
 		maxBoost = 3.0
 		#Notify everyone that a blight died in combat
-		notifyOnDeath = false
+		notifyOnDeath = true
 		#Multiplier for blight difficulty, 2 will make blights have stats equal to 2 * current difficulty
 		blightModifier = 2.0
 
