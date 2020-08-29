@@ -18,6 +18,9 @@
     "command.morpheus.alert": true, 
     "command.msg": true, 
     "command.ping": true,
+    "command.sh_difficulty": true,
+    "command.sh_difficulty.set": false,
+    "command.sh_difficulty.add": false,
     "command.teamsmod": true,
     "command.trade": true
   },
