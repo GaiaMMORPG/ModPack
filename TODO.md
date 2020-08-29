@@ -1,5 +1,9 @@
 # Todo List
 
+## Textures
+
+- [ ] economy-inc
+
 ## Traductions
 
 - [ ] astral-sorcery
@@ -9,14 +13,14 @@
 - [ ] corail-tombstone (corrections, ajouts de \n)
 - [ ] doggy-talents
 - [ ] draw-bridge
+- [x] economy-inc
 - [ ] ftb-chunks
 - [ ] ftb-ranks
-- [ ] ftb-teams
 - [ ] hwyla
 - [x] just-another-rotten-flesh-to-leather-mod
 - [ ] redstone-gates
 - [ ] rope-bridge
-- [ ] scalinghealth
+- [x] scalinghealth
 - [ ] spice-of-life-carrot-edition
 - [ ] storage-drawers
 - [ ] supertools
