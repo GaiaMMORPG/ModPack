@@ -29,7 +29,7 @@
   "config.waila.plugin_harvestability.shearability": "Tondable",
   "config.waila.plugin_harvestability.shearability.sneakingonly": "Accroupi : tondable",
   "config.waila.plugin_harvestability.silktouchability": "Touchabilité douce",
-  "config.waila.plugin_harvestability.silktouchability.sneakingonly": "Accroupi : Toucher de soie"
+  "config.waila.plugin_harvestability.silktouchability.sneakingonly": "Accroupi : Toucher de soie",
   "config.waila.plugin_harvestability.harvestlevelnum": "Niveau de récolte no.",
   "config.waila.plugin_harvestability.harvestlevelnum.sneakingonly": "Accroupi: Niveau de récolte no."
 }
