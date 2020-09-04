@@ -3,7 +3,7 @@
 [player_death]
 	#Experience loss on death (%) [0..100|default:0]
 	#Range: 0 ~ 100
-	xp_loss = 0
+	xp_loss = 33
 	#Whether to handle player experience [false/true|default:true]
 	handle_player_xp = true
 	#Allows players with bad alignment and the perk tomb raider to steal items on abandoned graves [false/true|default:false]
@@ -69,7 +69,7 @@
 #Allows to disable some magic items
 [allowedMagicItems]
 	#Book of Disenchantment [false/true|default:true]
-	allow_book_of_disenchantment = true
+	allow_book_of_disenchantment = false
 	#Scroll of Lightning Resistance [false/true|default:true]
 	allow_scroll_of_lightning_resistance = true
 	#Scroll of Feather Fall [false/true|default:true]
@@ -101,7 +101,7 @@
 	#Lost Tablet [false/true|default:true]
 	allow_lost_tablet = true
 	#Tablet of Home [false/true|default:true]
-	allow_tablet_of_home = true
+	allow_tablet_of_home = false
 
 #Allows to change the chance to drop some items
 [loot]
