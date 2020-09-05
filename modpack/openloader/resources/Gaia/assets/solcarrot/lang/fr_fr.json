@@ -1,0 +1,72 @@
+{
+	"tooltip.solcarrot.hearty.not_eaten": "Pas encore mangé",
+	"tooltip.solcarrot.hearty.eaten": "Déjà mangé ; a contribué à gagner des coeurs",
+	"tooltip.solcarrot.cheap.eaten": "Déjà mangé ; aucun effet notable",
+	"tooltip.solcarrot.cheap": "Cette nourriture ne contribue pas à améliorer vos coeurs.",
+	"tooltip.solcarrot.disabled.blacklist": "Cette nourriture ne contribue pas à améliorer vos coeurs.",
+	"tooltip.solcarrot.disabled.whitelist": "Cette nourriture ne contribue pas à améliorer vos coeurs.",
+	"tooltip.solcarrot.disabled.eaten": "Déjà mangé ; aucun effet notable",
+	
+	"command.solcarrot.foodlist.no_permissions": "Gaïa n'autorise pas l'utilisation de cette commande",
+	
+	"command.solcarrot.foodlist.size.desc.foods_eaten.singular": "Vous avez mangé une seule nourriture unique.",
+	"command.solcarrot.foodlist.size.desc.foods_eaten.plural": "Vous avez mangé %s nourritures unique.",
+	"command.solcarrot.foodlist.size.desc.milestone.max": "Vous ne pouvez pas gagnez plus de coeurs en mangeant des nourritures uniques.",
+	"command.solcarrot.foodlist.size.desc.milestone.more": "Il vous faut encore %s nourritures uniques pour améliorer vos coeurs.",
+	
+	"command.solcarrot.foodlist.clear.success": "Liste des nourritures réinitialisée.",
+	
+	"command.solcarrot.foodlist.sync.success": "Liste des nourritures synchronisée.",
+	
+	"message.solcarrot.chat_wrapper": "%s",
+	"message.solcarrot.hearts.singular": "un coeur",
+	"message.solcarrot.hearts.plural": "%s coeurs",
+	"message.solcarrot.milestone_achieved": "Quelle saveur extraordinaire ! Vous avez gagné %s.",
+	"message.solcarrot.finished.chat": "Votre désir de chercher de la nourriture unique est entièrement assouvi.",
+	"message.solcarrot.finished.hotbar": "Vous avez gagné %s.",
+	
+	"item.solcarrot.food_book": "Livre de Nourriture",
+	
+	"gui.solcarrot.food_book.stats": "Aperçu",
+	"gui.solcarrot.food_book.eaten_foods": "Déjà mangé: %s",
+	"gui.solcarrot.food_book.uneaten_foods": "Pas encore mangé: %s",
+	"gui.solcarrot.food_book.config": "Configuration",
+	
+	"gui.solcarrot.food_book.fraction": "%1$s/%2$s",
+	
+	"gui.solcarrot.food_book.stats.foods_tasted": "Nourritures mangées",
+	"gui.solcarrot.food_book.stats.hearts_gained": "Coeurs gagnés",
+	"gui.solcarrot.food_book.stats.tooltip.progress": "%s de plus jusqu'à la prochaine étape",
+	"gui.solcarrot.food_book.stats.tooltip.progress.max": "Étape la plus élevée atteinte",
+	"gui.solcarrot.food_book.stats.tooltip.previous_milestone": "Denière étape : %s",
+	"gui.solcarrot.food_book.stats.tooltip.next_milestone": "Prochaine étape : %s",
+	"gui.solcarrot.food_book.stats.tooltip.total_foods": "%s Nourritures Uniques",
+	"gui.solcarrot.food_book.stats.tooltip.foods_tasted": "Nourritures mangées : %s",
+	"gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.singular": "1 coeur par étape",
+	"gui.solcarrot.food_book.stats.tooltip.hearts_per_milestone.plural": "%s coeurs par étape",
+	
+	"gui.solcarrot.food_book.config.minimum_food_value": "Valeur de nourriture minimale",
+	"gui.solcarrot.food_book.config.tooltip.minimum_food_value": "Valeur de nourriture minimale requise pour contribuer aux étapes.",
+	"gui.solcarrot.food_book.config.hearty_fraction": "Nourritures nourrissantes",
+	"gui.solcarrot.food_book.config.tooltip.hearty_fraction": "Sur %1$s nourritures, %2$s étaient suffisament nourrissantes pour améliorer vos coeurs.",
+	"gui.solcarrot.food_book.config.eaten_cheap_foods": "Nourritures inintéressantes mangées",
+	"gui.solcarrot.food_book.config.tooltip.eaten_cheap_foods": "Sur %1$s nourritures inintéressantes, vous en avez mangé %2$s.",
+	"gui.solcarrot.food_book.config.blacklist": "Nourritures blacklistées",
+	"gui.solcarrot.food_book.config.whitelist": "Nourritures whitelistées",
+	"gui.solcarrot.food_book.config.tooltip.blacklist": "Nombre de nourritures désactivées par la blacklist.",
+	"gui.solcarrot.food_book.config.tooltip.whitelist": "Nombre de nourritures autorisées par la whitelist.",
+	
+	"config.solcarrot.base_hearts": "Nombre de Coeurs de base",
+	"config.solcarrot.hearts_per_milestone": "Coeurs par Étape",
+	"config.solcarrot.milestones": "Étapes",
+	"config.solcarrot.is_food_tooltip_enabled": "Activer les informations sur les nourritures",
+	"config.solcarrot.should_show_progress_above_hotbar": "Affiche la progression dans la hotbar",
+	"config.solcarrot.should_show_uneaten_foods": "Montre les nourritures non-mangées",
+	"config.solcarrot.should_play_milestone_sounds": "Active les sons des Étapes",
+	"config.solcarrot.should_spawn_intermediate_particles": "Activer les particules intermédiaires",
+	"config.solcarrot.should_spawn_milestone_particles": "Activer les particules d'étape",
+	"config.solcarrot.food_blacklist": "Blacklist",
+	"config.solcarrot.food_whitelist": "Whitelist (désactive la whitelist)",
+	"config.solcarrot.minimum_food_value": "Valeur de nourriture minimale",
+	"config.solcarrot.reset_on_death": "Réinitialiser à la mort"
+}
