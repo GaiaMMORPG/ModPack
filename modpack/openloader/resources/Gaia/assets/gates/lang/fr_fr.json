@@ -1,0 +1,48 @@
+{
+  "itemGroup.gates": "Portes Logiques",
+
+  "block.gates.redstone_block_off": "Bloc de Redstone (Éteint)",
+
+  "block.gates.and_gate": "Porte AND",
+  "block.gates.or_gate": "Porte OR",
+  "block.gates.not_gate": "Porte NOT",
+  "block.gates.nand_gate": "Porte Not-AND (NAND)",
+  "block.gates.nor_gate": "Porte Not-OR (NOR)",
+  "block.gates.xor_gate": "Porte eXclusive-OR (XOR)",
+  "block.gates.xnor_gate": "Porte eXclusive-Not-OR (XNOR)",
+
+  "block.gates.receiver": "Récepteur de Redstone",
+  "block.gates.transmitter": "Transmetteur de Redstone",
+
+  "block.gates.rain_detector": "Détecteur de pluie",
+  "block.gates.thunder_detector": "Détecteur d'orage",
+
+  "block.gates.slow_repeater": "Répéteur de Redstone Lent",
+  "block.gates.fast_repeater": "Répéteur de Redstone Rapide",
+
+  "block.gates.wireless_redstone_lamp": "Lampe Redstone sans fil",
+
+  "block.gates.rotary_switch": "Rotary Switch",
+
+  "block.gates.redstone_clock": "Pendule de Redstone",
+  "block.gates.advanced_redstone_clock": "Pendule de Redstone Avancée",
+
+  "block.gates.rs_flip_flop": "RS Flip-Flop",
+
+  "item.gates.redstone_torch_pearl": "Torche Redstone-Ender",
+  "item.gates.frequency_changer": "Outil de Fréquence",
+  "item.gates.portable_redstone_transmitter": "Transmetteur de Redstone Portable",
+
+  "gui.gates.frequency": "Fréquence :",
+  "gui.gates.frequency_saved": "Fréquence sauvegardée",
+  "gui.gates.current_frequency_stored": "Fréquence enregistrée : {0}",
+  "gui.gates.frequency_cleared": "Fréquence réinitialisée",
+  "gui.gates.frequency_set": "Fréquence définie",
+  "gui.gates.no_frequency": "Aucune fréquence définie",
+  "gui.gates.apply": "Appliquer",
+  "gui.gates.clock_time": "Temps",
+  "gui.gates.clock_length": "Durée",
+
+  "gui.gates.usage.portable_transmitter": "Clic droit pour activer.\nShift clic droit pour configurer.\nAvertissement : les transmetteurs seront toujours prioritaires sur une fréquence.",
+  "gui.gates.usage.frequency_changer": "Shift clic droit sur un bloc de transfert sans fil pour copier la fréquence.\nClic droit pour appliquer la fréquence sauvegardée sur un bloc de transfert sans fil.\nShift clic droit en l'air pour réinitialiser la fréquence."
+}
