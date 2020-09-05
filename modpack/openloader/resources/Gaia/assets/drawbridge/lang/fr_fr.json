@@ -1,0 +1,8 @@
+{
+	"block.drawbridge.draw_bridge": "Pont-levis",
+	"container.drawbridge.draw_bridge": "Pont-levis",
+	"container.drawbridge.draw_bridge.need_redstone": "Besoin de redstone ?",
+	"container.drawbridge.draw_bridge.speed": "Vitesse :",
+	"container.drawbridge.draw_bridge.ticks": "Ticks",
+	"itemGroup.drawbridge.group": "Pont-levis"
+}
