@@ -1,0 +1,7 @@
+
+#Server settings
+[Server]
+	#Changing this value will change how a play will know they've been rewarded [Default: CHAT].
+	#Allowed Values: CHAT, STATUS
+	announceMethod = "CHAT"
+

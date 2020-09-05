@@ -1,0 +1,12 @@
+{
+  "_comment": "Config",
+  "loyaltyrewards.config.title": "Configuration de Récompenses de Loyauté",
+
+  "_comment": "Text",
+  "loyaltyrewards.rewarded.message": "Vous avez été récompensé pour avoir joué ",
+  "loyaltyrewards.rewarded.toast.message": "Récompense pour %s",
+  "loyaltyrewards.inventory.full": "Inventaire plein, récompenses posées au sol.",
+
+  "_comment": "Stat",
+  "loyaltyrewards.stat.playNotIdle": "Temps Joué sans AFK"
+}
