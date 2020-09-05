@@ -26,7 +26,7 @@
 
 [enderPickpocket]
 	#Set to false to disable the ability for the Hand of Ender to pickpocket other players' ender chests
-	enabled = true
+	enabled = false
 
 [manaEnchanter]
 	#Set this to false to disable the Mana Enchanter. Since some people find it OP or something. This only disables the entry and creation. Old ones that are already in the world will stay.
