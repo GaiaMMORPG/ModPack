@@ -7,6 +7,14 @@ craftingTable.addShaped("luminous_crafting_table", <item:astralsorcery:altar_dis
 	null
 );
 
+craftingTable.addShaped("constellation_paper_alternative", <item:astralsorcery:constellation_paper>.withTag({astralsorcery: {}}), [
+		[<item:astralsorcery:parchment>, <item:minecraft:ink_sac>, <item:minecraft:air>],
+		[<item:minecraft:feather>, <item:minecraft:air>, <item:minecraft:air>],
+		[<item:minecraft:air>, <item:minecraft:air>, <item:minecraft:air>]
+	], 
+	null
+);
+
 //Super Tools fix
 craftingTable.removeRecipe(<item:supertools:platinumsickle>);
 
