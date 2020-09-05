@@ -488,7 +488,7 @@
 
 		[constellation.mantle.vicio]
 			#Set this to false to disable this mantle effect
-			enabled = true
+			enabled = false
 
 		[constellation.mantle.evorsio]
 			#Set the amount alignment charge consumed per block break enhanced by the mantle effect
