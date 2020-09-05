@@ -8,7 +8,14 @@
     "ftbranks.name_format": "✥{name}:",
     "command": false,
     "command.ftbteams": true,
-    "command.msg": true, 
+    "command.ftbranks": true,
+    "command.ftbranks.add": false,
+    "command.ftbranks.create": false,
+    "command.ftbranks.delete": false,
+    "command.ftbranks.refresh_readme": false,
+    "command.ftbranks.reload": false,
+    "command.ftbranks.remove": false,
+    "command.msg": true,
     "command.ping": true,
     "command.sh_difficulty": true,
     "command.sh_difficulty.set": false,
@@ -86,8 +93,8 @@
     "power": 15,
     "ftbranks.name_format": "♚{name}:"
   },
-  "staff": {
-    "name": "staff",
+  "moderateur": {
+    "name": "Modérateur",
     "power": 50,
     "ftbranks.name_format": "✲{name}:",
     "command.ban": true,
