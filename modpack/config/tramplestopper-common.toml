@@ -12,5 +12,5 @@
 	#Default: Normal behavior
 	#Feather Falling: Does not get trampled with you have feather falling boots
 	#Allowed Values: FEATHER_FALLING, NEVER, ALWAYS
-	type = "FEATHER_FALLING"
+	type = "NEVER"
 
