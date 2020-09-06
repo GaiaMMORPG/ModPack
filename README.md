@@ -8,32 +8,9 @@ Minecraft `1.15.2`
 
 Forge `31.2.36`
 
-## Téléchargement
+## Installation & Instructions
 
-### Version Stable
-
-Le ModPack peut être téléchargé en utilisant les releases sur Github. Pour être sûr d'avoir la dernière mise à jour, vous pouvez donc utiliser [ce lien](https://github.com/GaiaMMORPG/ModPack/releases/latest/download/GaiaModPack.zip).
-
-
-### Version Développement
-
-La dernière version de développement du ModPack peut être téléchargé depuis [ce lien](https://downgit.github.io/#/home?url=https://github.com/GaiaMMORPG/ModPack/tree/master/modpack&fileName=GaiaModPack&rootDirectory=false) ou depuis [ce lien](https://kinolien.github.io/gitzip/?download=/GaiaMMORPG/ModPack/tree/master/modpack).
-
-## Server
-
-### Game Rules
-
-Ces gamerules sont recommandées, non-obligatoires.
-
-`/gamerule doFireTick false` (le feu ne répand pas, mais ne s'éteint pas non plus) 
-
-`/worldborder set 100000` (doit être exécuté sur toutes les dimensions)
-
-## Limitations connues
-
-- Configurer Optifine de façon trop aggressive peut causer des textures à disparaître. C'est particulièrement le cas pour Astral Sorcery.
-
-- Utiliser des Déployeurs (deployers) de Create dans une zone claim l'empêche d'effectuer sa tâche. Il faut utiliser des deployers en dehors de toute colonie (utilisez `/minecolonier whereami`) et autoriser le `Deployer` en tant qu'allié dans FTBChunks.
+Pour plus de détails à propos de ce pack, consultez le wiki de ce repo, [ici](https://github.com/GaiaMMORPG/ModPack/wiki).
 
 ## Credits
 
