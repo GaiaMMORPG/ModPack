@@ -34,3 +34,13 @@ craftingTable.addShaped("alternative_end_portal_frame",
 	], 
 	null
 );
+
+//Custom Prismarine Shard
+craftingTable.addShaped("altenative_prismarine_shard", 
+	<item:minecraft:prismarine_shard>, [
+		[<item:minecraft:cobblestone>, <item:minecraft:quartz>, <item:minecraft:cobblestone>],
+		[<item:minecraft:quartz>, <item:aquaculture:neptunium_ingot>, <item:minecraft:quartz>],
+		[<item:minecraft:cobblestone>, <item:minecraft:quartz>, <item:minecraft:cobblestone>]
+	], 
+	null
+);
