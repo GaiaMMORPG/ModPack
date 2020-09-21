@@ -24,14 +24,6 @@ craftingTable.removeRecipe(<item:supertools:platinumsickle>);
 craftingTable.removeRecipe(<item:economyinc:block_bills>);
 craftingTable.removeRecipe(<item:economyinc:block_vault>);
 craftingTable.removeRecipe(<item:economyinc:item_gearmechanism>);
-craftingTable.addShaped("atm", 
-	<item:economyinc:block_atm>, [
-		[<item:minecraft:iron_ingot>, <item:minecraft:glass_pane>, <item:minecraft:iron_ingot>],
-		[<item:minecraft:iron_ingot>, <item:economyinc:item_gear>, <item:minecraft:iron_ingot>],
-		[<item:minecraft:iron_ingot>, <item:minecraft:redstone>, <item:minecraft:iron_ingot>]
-	], 
-	null
-);
 
 //EndPortal alternative
 craftingTable.addShaped("alternative_end_portal_frame", 
