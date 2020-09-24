@@ -1,6 +1,6 @@
 # ModPack
 
-Ce repo héberge le mod pack client pour Gaïa MMORPG.
+Hébergement du mod pack client pour Gaïa MMORPG - Moddé. Pour plus de détails à propos de ce pack, consultez le wiki de ce repo, [ici](https://github.com/GaiaMMORPG/ModPack/wiki).
 
 ## Versions
 
@@ -8,12 +8,9 @@ Minecraft `1.15.2`
 
 Forge `31.2.36`
 
-## Installation & Instructions
-
-Pour plus de détails à propos de ce pack, consultez le wiki de ce repo, [ici](https://github.com/GaiaMMORPG/ModPack/wiki).
-
 ## Credits
 
+- [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights)
 - [Akashic Tome](https://www.curseforge.com/minecraft/mc-mods/akashic-tome)
 - [AppleSkin](https://www.curseforge.com/minecraft/mc-mods/appleskin)
 - [AquaCulture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
@@ -23,6 +20,8 @@ Pour plus de détails à propos de ce pack, consultez le wiki de ce repo, [ici](
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
 - [Botania](https://www.curseforge.com/minecraft/mc-mods/botania)
+- [Bottle your xp](https://www.curseforge.com/minecraft/mc-mods/bottle-your-xp)
+- [Collective](https://www.curseforge.com/minecraft/mc-mods/collective)
 - [Comforts](https://www.curseforge.com/minecraft/mc-mods/comforts)
 - [Corail Tombstone](https://www.curseforge.com/minecraft/mc-mods/corail-tombstone)
 - [Craft Tweaker](https://www.curseforge.com/minecraft/mc-mods/crafttweaker)
@@ -30,41 +29,45 @@ Pour plus de détails à propos de ce pack, consultez le wiki de ce repo, [ici](
 - [Curios API](https://www.curseforge.com/minecraft/mc-mods/curios)
 - [Default Options](https://www.curseforge.com/minecraft/mc-mods/default-options)
 - [Doggy Talents](https://www.curseforge.com/minecraft/mc-mods/doggy-talents)
-- [Drawbridge](https://www.curseforge.com/minecraft/mc-mods/draw-bridge)
 - [Dungeon Crawl](https://www.curseforge.com/minecraft/mc-mods/dungeon-crawl)
 - [Dynamic View](https://www.curseforge.com/minecraft/mc-mods/dynamic-view)
+- [Economy Inc.](https://www.curseforge.com/minecraft/mc-mods/economy-inc)
+- [End Portal Recipe](https://www.curseforge.com/minecraft/mc-mods/end-portal-recipe)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
 - [FTB Chunks](https://jenkins.latmod.com/job/FTB-Chunks/)
 - [FTB GUI Library](https://jenkins.latmod.com/job/FTB-GUI-Library/)
-- [FTB Quests](https://jenkins.latmod.com/job/FTB-Quests/)
 - [FTB Ranks](https://jenkins.latmod.com/job/FTB-Ranks/)
-- [FTB Teams](https://jenkins.latmod.com/job/FTB-Teams/)
-- [Here's What You're Looking At](https://www.curseforge.com/minecraft/mc-mods/hwyla)
 - [Initial Inventory](https://www.curseforge.com/minecraft/mc-mods/initial-inventory)
 - [Inventory Sorter](https://www.curseforge.com/minecraft/mc-mods/inventory-sorter)
 - [Just Enough Items](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [JourneyMap](https://www.curseforge.com/minecraft/mc-mods/journeymap)
 - [Just Another Rotten Flesh to Leather Mod](https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod)
+- [Loyalty Rewards](https://www.curseforge.com/minecraft/mc-mods/loyalty-rewards)
 - [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
+- [Mixin Bootstrap](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap)
+- [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
 - [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks)
 - [Nature's Aura](https://www.curseforge.com/minecraft/mc-mods/natures-aura)
+- [No Recipe Book](https://www.curseforge.com/minecraft/mc-mods/no-recipe-book)
 - [ObserverLib](https://www.curseforge.com/minecraft/mc-mods/observerlib)
+- [Open Loader](https://www.curseforge.com/minecraft/mc-mods/open-loader)
 - [Pam's HarvestCraft 2 - Crops](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-crops)
 - [Pam's HarvestCraft 2 - Food Core](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-food-core)
 - [Pam's HarvestCraft 2 - Trees](https://www.curseforge.com/minecraft/mc-mods/pams-harvestcraft-2-trees)
+- [Passive Endermen](https://www.curseforge.com/minecraft/mc-mods/passive-endermen)
 - [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+- [Performant](https://www.curseforge.com/minecraft/mc-mods/performant)
 - [Polymorph](https://www.curseforge.com/minecraft/mc-mods/polymorph)
 - [Redstone Gates](https://www.curseforge.com/minecraft/mc-mods/redstone-gates)
-- [Rope Bridge](https://www.curseforge.com/minecraft/mc-mods/rope-bridge)
 - [Scaling Health](https://www.curseforge.com/minecraft/mc-mods/scaling-health)
 - [Silent Lib](https://www.curseforge.com/minecraft/mc-mods/silent-lib)
 - [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
 - [SuperTools](https://www.curseforge.com/minecraft/mc-mods/super-tools)
+- [Teams](https://www.curseforge.com/minecraft/mc-mods/teams-mod)
+- [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
+- [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
 - [Trading Players](https://www.curseforge.com/minecraft/mc-mods/trading-players)
 - [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper)
-- [U Team Core](https://www.curseforge.com/minecraft/mc-mods/u-team-core)
-- [Vanilla Tools](https://www.curseforge.com/minecraft/mc-mods/vanilla-tools)
-- [Waila Harvestability](https://www.curseforge.com/minecraft/mc-mods/waila-harvestability)
 - [Stupid Horse Stand Still](https://www.curseforge.com/minecraft/mc-mods/stupid-horse-stand-still)
