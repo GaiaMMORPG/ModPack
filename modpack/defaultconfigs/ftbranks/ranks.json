@@ -6,6 +6,8 @@
       "type": "always_active"
     },
     "ftbranks.name_format": "✥{name}:",
+    "ftbchunks.max_claimed": 10,
+    "ftbchunks.max_force_loaded": 0,
     "command": false,
     "command.ftbteams": true,
     "command.ftbranks": true,
@@ -26,72 +28,100 @@
   "citoyen": {
     "name": "Citoyen",
     "power": 2,
-    "ftbranks.name_format": "✢{name}:"
+    "ftbranks.name_format": "✢{name}:",
+    "ftbchunks.max_claimed": 20,
+    "ftbchunks.max_force_loaded": 2
   },
   "roturier": {
     "name": "Roturier",
     "power": 3,
-    "ftbranks.name_format": "✣{name}:"
+    "ftbranks.name_format": "✣{name}:",
+    "ftbchunks.max_claimed": 30,
+    "ftbchunks.max_force_loaded": 3
   },
   "ecuyer": {
     "name": "Écuyer",
     "power": 4,
-    "ftbranks.name_format": "✤{name}:"
+    "ftbranks.name_format": "✤{name}:",
+    "ftbchunks.max_claimed": 50,
+    "ftbchunks.max_force_loaded": 5
   },
   "chevalier": {
     "name": "Chevalier",
     "power": 5,
-    "ftbranks.name_format": "✦{name}:"
+    "ftbranks.name_format": "✦{name}:",
+    "ftbchunks.max_claimed": 70,
+    "ftbchunks.max_force_loaded": 7
   },
   "banneret": {
     "name": "Banneret",
     "power": 6,
-    "ftbranks.name_format": "✠{name}:"
+    "ftbranks.name_format": "✠{name}:",
+    "ftbchunks.max_claimed": 100,
+    "ftbchunks.max_force_loaded": 10
   },
   "baron": {
     "name": "Baron",
     "power": 7,
-    "ftbranks.name_format": "✩{name}:"
+    "ftbranks.name_format": "✩{name}:",
+    "ftbchunks.max_claimed": 130,
+    "ftbchunks.max_force_loaded": 13
   },
   "vicomte": {
     "name": "Vicomte",
     "power": 8,
-    "ftbranks.name_format": "✬{name}:"
+    "ftbranks.name_format": "✬{name}:",
+    "ftbchunks.max_claimed": 160,
+    "ftbchunks.max_force_loaded": 16
   },
   "comte": {
     "name": "Comte",
     "power": 9,
-    "ftbranks.name_format": "✭{name}:"
+    "ftbranks.name_format": "✭{name}:",
+    "ftbchunks.max_claimed": 200,
+    "ftbchunks.max_force_loaded": 20
   },
   "ambassadeur": {
     "name": "Ambassadeur",
     "power": 10,
-    "ftbranks.name_format": "✮{name}:"
+    "ftbranks.name_format": "✮{name}:",
+    "ftbchunks.max_claimed": 240,
+    "ftbchunks.max_force_loaded": 24
   },
   "marquis": {
     "name": "Marquis",
     "power": 11,
-    "ftbranks.name_format": "✰{name}:"
+    "ftbranks.name_format": "✰{name}:",
+    "ftbchunks.max_claimed": 280,
+    "ftbchunks.max_force_loaded": 28
   },
   "duc": {
     "name": "Duc",
     "power": 12,
-    "ftbranks.name_format": "✯{name}:"
+    "ftbranks.name_format": "✯{name}:",
+    "ftbchunks.max_claimed": 320,
+    "ftbchunks.max_force_loaded": 32
   },
   "dauphin": {
     "name": "Dauphin",
     "power": 13,
-    "ftbranks.name_format": "✪{name}:"
+    "ftbranks.name_format": "✪{name}:",
+    "ftbchunks.max_claimed": 360,
+    "ftbchunks.max_force_loaded": 36
   },
   "prince": {
     "name": "Prince",
     "power": 14,
-    "ftbranks.name_format": "♛{name}:"
+    "ftbranks.name_format": "♛{name}:",
+    "ftbchunks.max_claimed": 400,
+    "ftbchunks.max_force_loaded": 40
   },
   "grandprince": {
     "name": "Grand Prince",
     "power": 15,
-    "ftbranks.name_format": "♚{name}:"
+    "ftbranks.name_format": "♚{name}:",
+    "ftbchunks.max_claimed": 400,
+    "ftbchunks.max_force_loaded": 40
   },
   "moderateur": {
     "name": "Modérateur",
@@ -99,7 +129,17 @@
     "ftbranks.name_format": "✲{name}:",
     "command.ban": true,
     "command.kick": true,
-    "command.pardon": true
+    "command.pardon": true,
+    "command.banlist": true,
+    "command.whitelist": true,
+    "command.whitelist.add": true,
+    "command.whitelist.add.targets": true,
+    "command.whitelist.list": true,
+    "command.whitelist.off": false,
+    "command.whitelist.on": false,
+    "command.whitelist.reload": false,
+    "command.whitelist.remove": true,
+    "command.whitelist.remove.targets": true
   },
   "admin": {
     "name": "Admin",
