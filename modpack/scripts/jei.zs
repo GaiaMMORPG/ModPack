@@ -8,3 +8,6 @@ JEI.hideItem(<item:economyinc:block_bills>);
 JEI.hideItem(<item:economyinc:block_vault>);
 JEI.hideItem(<item:economyinc:item_gearmechanism>);
 JEI.hideItem(<item:economyinc:block_atm>);
+
+//WorldProtector customization
+JEI.hideItem(<item:worldprotector:region_stick>);
