@@ -33,7 +33,7 @@
 	"gui.color": "Coleur",
 	"gui.downloading": "Téléchargement...",
 	"gui.infinite": "Infini",
-	"delete_item": "Shoutez-vous supprimer '%s'?",
+	"delete_item": "Souhaitez-vous supprimer '%s'?",
 	"lat_support": "",
 	"ftbguilibrary.select_fluid.gui": "Selectionner Fluides",
 	"ftbguilibrary.select_item.list_mode": "Mode de liste: %s",
