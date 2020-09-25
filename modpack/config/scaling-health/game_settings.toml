@@ -13,7 +13,9 @@
 	#The maximum difficulty value a player can have.
 	maxValue = 250.0
 	#Distance-based area modes will multiply distance by this value to get difficulty
-	distanceFactor = 0.0025
+	## Scaled for a 100,000 diameter map (/worldborder set 100000)
+	## at ~ 45K blocs away from spawn, difficulty is at max level.
+	distanceFactor = 0.0055
 	#EvalEx expression: A multiplier for area difficulty calculations, typically based on the number of players in the search radius.
 	groupAreaBonus = "1 + 0.05 * (areaPlayerCount - 1)"
 	#Message displayed to the player when sleeping, assuming it would change their difficulty.
@@ -21,7 +23,8 @@
 	sleepWarningMessage = "En dormant, vous augmentez votre difficulté."
 	#Every second, this value is added to player and dimension difficulty.
 	#Enter a negative number to subtract difficulty instead.
-	changePerSecond = 0.0011575
+	## Scaled for attaining max level (250) after 120 hours (non AFK), in game.
+	changePerSecond = 0.0005
 	#These players will not gain difficulty. Use either name or UUID.
 	#Note: if non-exempt players are nearby, mobs will still be stronger.
 	exemptPlayers = []
@@ -54,7 +57,7 @@
 		#Multiplier for changePerSecond when the player is not moving. A negative value will then decrease difficulty.
 		multiplier = 0.5
 		#Time in seconds before afk change kicks in
-		time = 120.0
+		time = 300.0
 		#If true, a comment will appear to notify when you are considered afk
 		message = true
 
@@ -62,17 +65,17 @@
 	#putting in -difficulty- produces no change, putting 0 will reset difficulty after this action
 	[difficulty.mutators]
 		#EvalEx expression: A player sleeps in a bed
-		onPlayerSleep = "difficulty * 1.25"
+		onPlayerSleep = "difficulty + 0.01"
 		#EvalEx expression: A player dies
-		onPlayerDeath = "difficulty * 0.75"
+		onPlayerDeath = "difficulty * 0.98"
 		#EvalEx expression: A normal hostile mob is killed by a player
-		onHostileKilled = "difficulty + 0.5"
+		onHostileKilled = "difficulty + 0.2"
 		#EvalEx expression: A player killed another player
-		onPlayerKilled = "difficulty + 1.0"
+		onPlayerKilled = "difficulty + 0.5"
 		#EvalEx expression: A boss is killed by a player
-		onBossKilled = "difficulty + 5.0"
+		onBossKilled = "difficulty + 0.7"
 		#EvalEx expression: A blight is killed by a player
-		onBlightKilled = "difficulty + 2.0"
+		onBlightKilled = "difficulty + 0.7"
 		#EvalEx expression: A peaceful mob is killed by a player
 		onPeacefulKilled = "difficulty + 0.1"
 
@@ -104,24 +107,25 @@
 [mob]
 
 	[mob.damage]
+		## Scaled to attain 15 attack damage at max level (250) difficulty
 		#The maximum extra attack damage a mob can receive
-		maxBoost = 10.0
+		maxBoost = 15.0
 		#How rapidly mob attack damage rises with difficulty (0 = no damage boost)
-		boostScale = 0.1
+		boostScale = 0.06
 
 	#Chance for mobs to receive a random potion effect (assuming their difficulty is high enough)
 	[mob.potionChance]
-		hostile = 0.375
-		peaceful = 0.025
+		hostile = 0.1
+		peaceful = 0.0
 
 	[mob.xp]
 		#Xp scaling multiplied by difficulty - xp scale of 0.1 with difficulty 10 will give about 11x more xp
-		Boost = 0.03
+		Boost = 0.01
 
 	#Mob health settings
 	[mob.health]
 		#This modifier affects the hp scale of mobs spawned by spawners, a normal 100 hp boost, will be of 30 using default value
-		spawner = 0.3
+		spawner = 0.5
 		#Determines how difficulty affects mob health.
 		#2 types of modes: Multiplier and additive, with 3 different multipliers.
 		#MULTI: Mob hp is multiplied, mobs with higher base hp have more increase.
@@ -131,8 +135,8 @@
 		modifierMode = "MULTI_HALF"
 
 		[mob.health.multiplier]
-			hostile = 0.375
-			passive = 0.375
+			hostile = 0.3
+			passive = 0.3
 
 	[mob.blight]
 		#Chance that the mob has of becoming a blight - 0 will effectively deactivate blight
@@ -172,37 +176,37 @@
 
 	[[mob.randomPotionEffects]]
 		potion = "minecraft:speed"
-		minDifficulty = 15
+		minDifficulty = 50
 		level = 1
 		durationInMinutes = 10.0
 
 	[[mob.randomPotionEffects]]
 		potion = "minecraft:speed"
-		minDifficulty = 50
+		minDifficulty = 100
 		level = 2
 		durationInMinutes = 10.0
 
 	[[mob.randomPotionEffects]]
 		potion = "minecraft:strength"
-		minDifficulty = 30
+		minDifficulty = 150
 		level = 1
 		durationInMinutes = 10.0
 
 	[[mob.randomPotionEffects]]
 		potion = "minecraft:fire_resistance"
-		minDifficulty = 10
+		minDifficulty = 150
 		level = 1
 		durationInMinutes = 10.0
 
 	[[mob.randomPotionEffects]]
 		potion = "minecraft:invisibility"
-		minDifficulty = 35
+		minDifficulty = 200
 		level = 1
 		durationInMinutes = 10.0
 
 	[[mob.randomPotionEffects]]
 		potion = "minecraft:resistance"
-		minDifficulty = 40
+		minDifficulty = 200
 		level = 1
 		durationInMinutes = 10.0
 
