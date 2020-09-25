@@ -58,7 +58,7 @@ mouseWheelSensitivity:1.0
 rawMouseInput:true
 glDebugVerbosity:1
 skipMultiplayerWarning:true
-soundCategory_master:0.307947
+soundCategory_master:0.10927153
 soundCategory_music:1.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
