@@ -64,10 +64,12 @@ Forge `31.2.36`
 - [Spice of Life: Carrot Edition](https://www.curseforge.com/minecraft/mc-mods/spice-of-life-carrot-edition)
 - [Storage Drawers](https://www.curseforge.com/minecraft/mc-mods/storage-drawers)
 - [Structurize](https://www.curseforge.com/minecraft/mc-mods/structurize)
+- [Stupid Horse Stand Still](https://www.curseforge.com/minecraft/mc-mods/stupid-horse-stand-still)
 - [SuperTools](https://www.curseforge.com/minecraft/mc-mods/super-tools)
 - [Teams](https://www.curseforge.com/minecraft/mc-mods/teams-mod)
 - [The One Probe](https://www.curseforge.com/minecraft/mc-mods/the-one-probe)
 - [Tool Belt](https://www.curseforge.com/minecraft/mc-mods/tool-belt)
 - [Trading Players](https://www.curseforge.com/minecraft/mc-mods/trading-players)
 - [Trample Stopper](https://www.curseforge.com/minecraft/mc-mods/trample-stopper)
-- [Stupid Horse Stand Still](https://www.curseforge.com/minecraft/mc-mods/stupid-horse-stand-still)
+- [WorldProtector](https://www.curseforge.com/minecraft/mc-mods/worldprotector)
+
