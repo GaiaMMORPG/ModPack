@@ -7,8 +7,10 @@ InvHandler.addStartingItem("akashic",
             naturesaura: {id: "patchouli:guide_book" as string, Count: 1, tag: {"patchouli:book": "naturesaura:book" as string}}, 
             astralsorcery: {id: "astralsorcery:tome" as string, Count: 1}, 
             solcarrot: {id: "solcarrot:food_book" as string, Count: 1}
-            }
-        })
-    );
+        }
+    })
+);
 
-InvHandler.addStartingItem("money", <item:economyinc:item_twohundreedb>);
+InvHandler.addStartingItem("money", 
+    <item:economyinc:item_twohundreedb>
+);
