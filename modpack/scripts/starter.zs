@@ -10,3 +10,5 @@ InvHandler.addStartingItem("akashic",
             }
         })
     );
+
+InvHandler.addStartingItem("money", <item:economyinc:item_twohundreedb>);
