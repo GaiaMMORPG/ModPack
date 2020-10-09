@@ -8,6 +8,16 @@ Minecraft `1.15.2`
 
 Forge `31.2.36`
 
+## Serveur
+
+Le modpack est spécifiquement calibré pour être joué sur un serveur. Pour le configurer correctement il est fortement recommandé d'utiliser les commandes suivantes au démarrage d'un nouveau monde :
+
+`/gamerule mobGriefing false`
+
+`/gamerule doFireTick false`
+
+`/worldborder set 100000`
+
 ## Credits
 
 - [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights)
