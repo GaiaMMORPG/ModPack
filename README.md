@@ -18,6 +18,12 @@ Le modpack est spécifiquement calibré pour être joué sur un serveur. Pour le
 
 `/worldborder set 100000`
 
+Lorsque vous utilisez ce modpack sur un monde existant (*fortement déconseillé*), ajoutez les commandes suivantes :
+
+`/gamerule mobGriefing minecraft:wither false`
+
+`/gamerule mobGriefing minecraft:enderman false`
+
 ## Credits
 
 - [Additional Lights](https://www.curseforge.com/minecraft/mc-mods/additional-lights)
@@ -26,6 +32,7 @@ Le modpack est spécifiquement calibré pour être joué sur un serveur. Pour le
 - [AquaCulture](https://www.curseforge.com/minecraft/mc-mods/aquaculture)
 - [AstikorCarts](https://www.curseforge.com/minecraft/mc-mods/astikorcarts)
 - [Astral Sorcery](https://www.curseforge.com/minecraft/mc-mods/astral-sorcery)
+- [Auto Restart](https://www.curseforge.com/minecraft/mc-mods/auto-restart)
 - [AutoRegLib](https://www.curseforge.com/minecraft/mc-mods/autoreglib)
 - [Better Advancements](https://www.curseforge.com/minecraft/mc-mods/better-advancements)
 - [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty)
@@ -44,6 +51,7 @@ Le modpack est spécifiquement calibré pour être joué sur un serveur. Pour le
 - [Economy Inc.](https://www.curseforge.com/minecraft/mc-mods/economy-inc)
 - [End Portal Recipe](https://www.curseforge.com/minecraft/mc-mods/end-portal-recipe)
 - [Fast Leaf Decay](https://www.curseforge.com/minecraft/mc-mods/fast-leaf-decay)
+- [FTB Backups](https://www.curseforge.com/minecraft/mc-mods/ftb-backups)
 - [FTB Chunks](https://jenkins.latmod.com/job/FTB-Chunks/)
 - [FTB GUI Library](https://jenkins.latmod.com/job/FTB-GUI-Library/)
 - [FTB Ranks](https://jenkins.latmod.com/job/FTB-Ranks/)
@@ -54,6 +62,7 @@ Le modpack est spécifiquement calibré pour être joué sur un serveur. Pour le
 - [Just Another Rotten Flesh to Leather Mod](https://www.curseforge.com/minecraft/mc-mods/just-another-rotten-flesh-to-leather-mod)
 - [Lithium](https://www.curseforge.com/minecraft/mc-mods/lithium-forge/files/2919618)
 - [Loyalty Rewards](https://www.curseforge.com/minecraft/mc-mods/loyalty-rewards)
+- [Ma Essentials](https://www.curseforge.com/minecraft/mc-mods/maessentials)
 - [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies)
 - [Mixin Bootstrap](https://www.curseforge.com/minecraft/mc-mods/mixinbootstrap)
 - [Morpheus](https://www.curseforge.com/minecraft/mc-mods/morpheus)
