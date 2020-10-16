@@ -1,0 +1,273 @@
+{
+  "_comment": "Global",
+  "maessentials.cooldown": "Vous devez attendre §4%s secondes §ravant de pouvoir réutiliser cette commande.",
+  "maessentials.cooldown.teleport": "Vous devez attendre §4%s secondes §ravant de pouvoir réutiliser cette commande.",
+  "maessentials.provide.player": "Spécifiez un nom de joueur.",
+  "maessentials.provide.player.new": "Spécifiez un nouveau nom de joueur.",
+  "maessentials.specify.player": "Spécifiez un nom de joueur.",
+  "maessentials.not_found.player": "Joueur §4%s§r non trouvé.",
+  "maessentials.invaild_gamemode": "Mode de jeu invalide.",
+  "maessentials.invaild_gamemode.player": "Mode de jeu de §4%s§r invalide.",
+  "maessentials.illegal_date": "Durée invalide.",
+  "maessentials.invalid.location": "Emplacement invalide.",
+  "maessentials.provide.location": "Spécifiez un emplacement.",
+  "maessentials.only.single": "§cThis command is currently only available in single player",
+
+  "_comment": "Back",
+  "back.maessentials.not_found": "Emplacement 'back' non trouvé.",
+
+  "back.maessentials.success": "Téléportation vers votre emplacement précédent...",
+  "back.maessentials.success.wait": "Téléportation vers votre emplacement précédent, attendez §c%s§r secondes...",
+
+  "back.maessentials.death": "Vous êtes mort, vous pouvez utiliser §8/back§r pour vous téléporter à votre ancient emplacement.",
+  "back.maessentials.cooldown.teleport": "Vous devez attendre §4%s secondes §ravant de pouvoir réutiliser cette commande.",
+
+  "_comment": "Time",
+  "day.maessentials.success": "Day has been set",
+  "night.maessentials.success": "Night has been set",
+
+
+  "_comment": "Weather",
+  "sun.maessentials.success": "Set the weather to sun",
+  "rain.maessentials.success": "Set the weather to rain",
+  "thunder.maessentials.success": "Set the weather to thunder",
+
+  "_comment": "Spawn",
+  "spawn.maessentials.success": "Téléportation au spawn...",
+  "spawn.maessentials.success.wait": "Téléportation au spawn, veuillez attendre §c%s§r secondes...",
+
+  "setspawn.maessentials.success": "Spawn location set",
+
+
+  "_comment": "Home",
+  "home.maessentials.no_homes": "§cYou do not have any homes. Use §4/sethome <name> §cto set new home!",
+  "home.maessentials.not_exist": "§cHome §4%s§c not exist",
+  "home.maessentials.specify_name": "§cPlease specify home name",
+
+  "delhome.maessentials.done": "Home §a%s§r deleted",
+
+  "home.maessentials.teleport": "Teleporting to home §a%s§r...",
+  "home.maessentials.teleport.wait": "Teleporting to home §a%s§r, please wait §c%s§r seconds...",
+
+  "sethome.maessentials.max_homes": "§cYou cannot set more than §4%s§c homes",
+  "sethome.maessentials.done": "Home §a%s§r set",
+
+
+  "_comment": "Warp",
+  "warp.maessentials.not_exist": "§cWarp §4%s§c not exist",
+  "warp.maessentials.specify_name": "§cPlease specify warp name",
+
+  "delwarp.maessentials.success": "Warp §a%s§r deleted",
+
+  "warp.maessentials.list": "Current warps (§c%s§r): ",
+  "warp.maessentials.list.warp": "§a%s§r",
+
+  "warp.maessentials.success": "Teleporting to warp §a%s§r...",
+  "warp.maessentials.success.wait": "Teleporting to warp §a%s§r, please wait §c%s§r seconds...",
+
+  "setwarp.maessentials.success": "Warp §a%s§r set",
+  "setwarp.maessentials.exist": "§cWarp §4%s§c already exist",
+
+
+  "_comment": "Teleport request",
+  "tpa.maessentials.exist": "§cYou already have pending teleport request to §4%s§r",
+  "tpa.maessentials.self": "§cYou can not request teleport to yourself",
+  "tpa.maessentials.not_found": "§cTeleport request has not been found",
+  "tpa.maessentials.no_request": "§cYou don't have any pending teleport requests",
+
+  "tpa.maessentials.request": "Teleport request sent to §c%s§r",
+  "tpa.maessentials.request.target": "Player §c%s§r wants to teleport to you",
+
+  "tpa.maessentials.request.target.accept.hover": "§a%s§r",
+  "tpa.maessentials.request.target.deny.hover": "§c%s§r",
+
+
+  "tpa.maessentials.request.target.accept": "To teleport, type §a%s§r",
+  "tpa.maessentials.request.target.deny": "To deny this request, type §c%s§r",
+
+  "tpahere.maessentials.request.target": "Player §c%s§r wants to teleport you to himself",
+
+
+  "_comment": "Mute",
+  "unmmute.maessentials.not_muted": "§4%s§r n'est pas mute.",
+  "unmmute.maessentials.success": "§c%s§r a été mute.",
+  "unmmute.maessentials.success.target": "Vous n'êtes plus mute.",
+
+  "mute.maessentials.already_muted": "§4%s§r est déjà mute.",
+  "mute.maessentials.provide.time": "Spécifiez une durée de mute.",
+  "mute.maessentials.success": "§4%s§r a été mute par §4%s§r pendant §4%s§r. Motif : §4%s§r",
+  "mute.maessentials.success.target": "Vous avez été mute pendant §4%s§r.",
+  "mute.maessentials.success.target.reason": "Motif : §4%s§r",
+  "mute.maessentials.success.perm": "§4%s§r a été mute indéfiniment par §4%s§r. Motif : §4%s§r",
+  "mute.maessentials.success.perm.target": "Vous avez été mute indéfiniment.",
+
+
+  "_comment": "Suicide",
+  "suicide.maessentials.player": "You just killed §c%s§r",
+  "suicide.maessentials.player.target": "You have been killed by §c%s§r.",
+
+
+  "_comment": "Heal",
+  "heal.maessentials.self": "You just healed yourself",
+  "heal.maessentials.player": "You just healed §c%s§r",
+  "heal.maessentials.player.target": "You have been healed by §c%s§r",
+
+
+  "_comment": "GM",
+  "gm.maessentials.invalid": "§cInvaild gamemode provided",
+  "gm.maessentials.self": "Your gamemode has been changed to §8%s§r",
+  "gm.maessentials.player": "You changed gamemode for player §c%s§r to §8%s§r",
+
+
+  "_comment": "Fly",
+  "fly.maessentials.self.enabled": "You can now fly",
+  "fly.maessentials.self.disabled": "Fly mode disabled",
+  "fly.maessentials.player.enabled": "Fly mode enabled for player §c%s§r",
+  "fly.maessentials.player.disabled": "Fly mode disabled for player §c%s§r",
+
+
+  "_comment": "God",
+  "god.maessentials.self.enabled": "God mode enabled",
+  "god.maessentials.self.disabled": "God mode disabled",
+  "god.maessentials.player.enabled": "God mode enabled for player §c%s§r",
+  "god.maessentials.player.disabled": "God mode disabled for player §c%s§r",
+
+
+  "_comment": "RNDTP",
+  "rndtp.maessentials.not_found": "§cCouldn't find a safe place to teleport",
+  "rndtp.maessentials.dimension": "§cYou need to be in spawn dimension to use random teleport",
+  "rndtp.maessentials.teleport": "Teleporting you to random location...",
+  "rndtp.maessentials.teleport.wait": "Teleporting you to random location, please wait §c%s§r seconds...",
+
+
+  "_comment": "Top",
+  "top.maessentials.teleported": "Teleported to highest location",
+
+
+  "_comment": "Teleport",
+  "teleport.maessentials.teleport.failed": "La téléportation n'a pas réussie.",
+  "teleport.maessentials.active": "Vous avez une téléportation active !",
+  "teleport.maessentials.moved": "En attente de votre téléportation, ne bougez pas. Téléportation annulée.",
+  "teleport.maessentials.teleported": "Téléporté.",
+
+  "teleport.maessentials.tpaccept.request": "You have been teleported to §c%s§r",
+  "teleport.maessentials.tpaccept.request.wait": "Teleport accepted, please don't move for next §c%s§r seconds...",
+
+  "teleport.maessentials.tpaccept.target": "Player §c%s§r has been teleported to you",
+  "teleport.maessentials.tpaccept.target.wait": "Teleport request from §c%s§r accepted, waiting for teleportation!",
+
+  "teleport.maessentials.tpdeny.request": "Player §c%s§r declined your teleport request",
+  "teleport.maessentials.tpdeny.target": "Teleport request declined from player §c%s§r",
+
+  "teleport.maessentials.expired.target": "Teleport request to player §c%s§r just expired",
+  "teleport.maessentials.expired.request": "Teleport request to from §c%s§r just expired",
+
+  "teleport.maessentials.moved.request": "§cYou moved, teleport cancelled!",
+  "teleport.maessentials.moved.target": "§cPlayer §4%s§c moved, teleport cancelled!",
+
+
+  "_comment": "Reload",
+  "maereload.maessentials.done": "§aMod data reloaded",
+
+
+  "_comment": "Kit",
+  "kit.maessentials.parse_error": "§cFailed to get kit. Please contact with server operator!",
+  "kit.maessentials.not_exist": "§cKit §4%s§c does not exist!",
+  "kit.maessentials.wait": "§cYou need to wait §4%s§c before taking this kit!",
+
+  "kit.maessentials.list": "Kits available: ",
+  "kit.maessentials.list.kit": "§a%s§r",
+  "kit.maessentials.received": "Received kit §a%s§r",
+
+
+  "_comment": "Speed",
+  "speed.maessentials.max_fly": "§cMaximum fly speed is §4%s§r",
+  "speed.maessentials.max_walk": "§cMaximum walk speed is §4%s§r",
+
+  "speed.maessentials.fly.self": "Flying speed changed to §a%s§r",
+  "speed.maessentials.fly.other": "Flying speed changed for §c$s§r to §a%s§r",
+
+  "speed.maessentials.walk.self": "Walking speed changed to §a%s§r",
+  "speed.maessentials.walk.other": "Walking speed changed for §c$s§r to §a%s§r",
+
+
+  "_comment": "Tpall",
+  "tpall.maessentials.teleported": "You have been teleported to §4%s§r",
+  "tpall.maessentials.success": "Teleported all players to you",
+
+
+  "_comment": "Kickall",
+  "kickall.maessentials.success": "Kicked all players from server",
+
+
+  "_comment": "Broadcast",
+  "broadcast.maessentials.no_message": "Vous ne pouvez pas broadcast un message vide.",
+  "broadcast.maessentials.success": "[Annonce] %s",
+
+
+  "_comment": "Up",
+  "up.maessentials.success.up": "Teleported §c%s§r block(s) up",
+  "up.maessentials.success.down": "Teleported §c%s§r block(s) down",
+
+
+  "_comment": "AFK",
+  "afk.maessentials.afk.true": "§c%s§r est AFK.",
+  "afk.maessentials.afk.false": "§c%s§r n'est plus AFK.",
+
+
+  "_comment": "Kick",
+  "kick.maessentials.done": "§4%s§r a été kick par §4%s§r. Motif : §4%s",
+  "kick.maessentials.server": "Gaïa",
+  "kick.maessentials.player": "Vous avez été AFK pendant trop longtemps. Afin de préserver les resources de son monde, Gaïa vous a kick.",
+
+
+  "_comment": "Endc",
+  "endc.maessentials.open": "%s's Enderchest",
+  "inv.maessentials.open": "%s's Inventory",
+
+  "_comment": "Trash",
+  "trash.maessentials.open": "Poubelle",
+
+
+  "_comment": "Tempban",
+  "unban.maessentials.not_banned": "§4%s§r n'est pas banni.",
+  "unban.maessentials.success": "§c%s§r a été pardonné.",
+
+  "tempban.maessentials.already_banned": "§4%s§r est déjà banni.",
+  "tempban.maessentials.provide.time": "Spécifiez une durée de ban.",
+  "tempban.maessentials.success": "§4%s§r a été banni par §4%s§r pendant §4%s§r. Motif : §4%s§r",
+  "tempban.maessentials.success.perm": "§4%s§r a été banni indéfiniment par §4%s§r. Motif : §4%s§r",
+  "tempban.maessentials.success.target": "§cVous avez été banni par §4%s§c pendant §4%s§c. Motif : §4%s§r",
+  "tempban.maessentials.success.perm.target": "§cVous avez été banni indéfiniment par §4%s§c. Motif : §4%s§r",
+
+
+  "_comment": "Check",
+  "check.maessentials.player.banned.list": "Joueurs bannis :",
+  "check.maessentials.player.banned.empty": "Aucun joueur banni.",
+  "check.maessentials.player.banned.perm": "- §c%s§r (§9%s§r): §aindéfiniment§r. Motif : §8%s§r",
+  "check.maessentials.player.banned": "- §c%s§r (§9%s§r): §a%s§r. Motif: §8%s§r",
+
+  "check.maessentials.player.muted.list": "Joueurs mute :",
+  "check.maessentials.player.muted.empty": "Aucun joueur mute",
+  "check.maessentials.player.muted.perm": "- §c%s§r (§9%s§r): §aindéfiniment§r. Motif : §8%s§r",
+  "check.maessentials.player.muted": "- §c%s§r (§9%s§r): §a%s§r. Motif : §8%s§r",
+
+
+  "_comment": "Head",
+  "head.maessentials.done": "Received §c%s's§r head",
+
+
+  "_comment": "Invsee",
+  "invsee.maessentials.self": "§cYou can not invsee your own inventory",
+
+  "_comment": "Repair",
+  "repair.maessentials.done": "Repaired item in your hand",
+  "repair.maessentials.error": "§cItem in your hand can not be repaired!",
+
+  "_comment": "Hat",
+  "hat.maessentials.error": "§cAir can not be set as hat!",
+  "hat.maessentials.success": "Enjoy your new hat!",
+
+
+  "test.maessentials.test": "%s"
+}
